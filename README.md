@@ -11,11 +11,12 @@ Partylink is a concert and event ticketing platform i made because of my love fo
 - Clerk
 
 ### Backend
+- Express
+- Sqlite
 
 ### Infrastructure
 - pmc for process management
 - Oracle vps
-
 
 ## Prerequisites
 - Android Studio + SDK + JDK (for Android builds)
@@ -52,6 +53,6 @@ The app is gonna run at `http://localhost:8081` and the API runs at `http://loca
 If you want you can build for android by
 ```bash
 bun cap sync
-bun cap run androdi
+bun cap run android
 ```
 
