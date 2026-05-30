@@ -1,3 +1,7 @@
 [submodule "Partylink"]
 	path = Partylink
 	url = https://github.com/BeanieMen/PartyLink/
+
+[submodule "Partylink-backend"]
+	path = Partylink-backend
+	url = https://github.com/BeanieMen/PartyLink-backend/
