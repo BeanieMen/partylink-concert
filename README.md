@@ -56,3 +56,6 @@ bun cap sync
 bun cap run android
 ```
 
+# AI USAGE
+ai or specifically gpt 5.2 was used in the making of the frontend ONLY. i dont trust it enough for the backend
+
