@@ -1,8 +1,0 @@
-{
-  "entry": ["src/v1/app.ts"],
-  "project": ["src/v1/**/*.ts"],
-  "ignore": [],
-  "ignoreDependencies": ["globals", "@eslint/js"],
-  "ignoreBinaries": [],
-  "ignoreWorkspaces": []
-}
